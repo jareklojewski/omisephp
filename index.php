@@ -6,6 +6,7 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>Hello World2</p>'; ?> 
+echo "<body style='background-color:green'>";
+ <?php echo '<p>This is Jarek page - color green</p>'; ?> 
  </body>
 </html>
